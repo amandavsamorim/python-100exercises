@@ -12,7 +12,7 @@ Os exercícios abordam desde conceitos básicos de programação até tópicos m
 
 Os exercícios estão organizados por número e tópico, conforme o curso:  
  
-     📂 exercicios/
+     📂 PythonExercicios/
     ├── ex001.py 
     ├── ex002.py
     ├── ...
