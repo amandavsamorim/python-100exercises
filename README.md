@@ -1,6 +1,6 @@
 # 🐍 100 Exercícios de Python - Curso em Vídeo  
 
-Bem-vindo(a)! Este repositório contém as minhas soluções para os **100 exercícios de Python** do curso [Curso em Vídeo](https://www.youtube.com/@CursoemVideo) no YouTube, ministrado pelo professor **Gustavo Guanabara**.  
+Bem-vindo(a)! Este repositório contém as minhas soluções para os **100 exercícios de Python** do curso [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo) no YouTube, ministrado pelo professor **Gustavo Guanabara**.  
 
 ## 📋 Sobre o Projeto  
 
