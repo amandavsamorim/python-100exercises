@@ -27,7 +27,7 @@ Os exercícios estão organizados por número e tópico, conforme o curso:
 
 2. Clone o repositório:
    ```bash
-    python exercicios/ex001.py
+    python PythonExercicios/ex001.py
 
 ## 🧑‍🎓 Sobre o Curso
 
