@@ -1,16 +1,16 @@
-# 🐍 100 Exercícios de Python - Curso em Vídeo  
+# 🐍 100 Python Exercises - Curso em Vídeo
 
-Bem-vindo(a)! Este repositório contém as minhas soluções para os **100 exercícios de Python** do canal [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo) no YouTube, ministrado pelo professor **Gustavo Guanabara**.  
+Welcome! This repository contains my solutions for the 100 Python exercises from the [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo) channel on YouTube, taught by professor Gustavo Guanabara. 
 
-## 📋 Sobre o Projeto  
+## 📋 About the Project 
 
-Durante o curso, são apresentados diversos desafios para praticar a linguagem Python, e este repositório serve como um repositório para acompanhar meu progresso e compartilhar as soluções com a comunidade.  
+Throughout the course, various challenges are presented to practice the Python programming language. This repository serves as a way to track my progress and share my solutions with the community.
 
-Os exercícios abordam desde conceitos básicos de programação até tópicos mais avançados, ajudando a reforçar o aprendizado e a desenvolver habilidades práticas.  
+The exercises cover everything from basic programming concepts to more advanced topics, helping reinforce learning and develop practical skills.
 
-## 🗂 Estrutura do Repositório  
+## 🗂 Repository Structure 
 
-Os exercícios estão organizados por número e tópico, conforme o curso:  
+The exercises are organized by number and topic, as per the course:  
  
      📂 python-100exercises/exercises
     ├── ex001.py 
@@ -18,21 +18,21 @@ Os exercícios estão organizados por número e tópico, conforme o curso:
     ├── ...
     └── ex100.py
 
-## 🚀 Como Usar  
+## 🚀 How to Use  
 
-1. Clone o repositório:  
+1. Clone the repository:
    ```bash
    git clone https://github.com/amandavsamorim/python-100exercises.git
    cd python-100exercises
 
-2. Clone o repositório:
+2. Run an exercise:
    ```bash
     python exercises/ex001.py
 
-## 🧑‍🎓 Sobre o Curso
+## 🧑‍🎓 About the Course
 
-O Curso de Python do Curso em Vídeo é uma das melhores opções gratuitas para aprender Python. O material é didático, com explicações claras e diversos exemplos práticos.
-Se você está começando com Python, recomendo muito assistir!
+The Python Course from Curso em Vídeo is one of the best free options to learn Python. The material is very educational, with clear explanations and several practical examples.
+If you're just starting with Python, I highly recommend checking it out!
 
-## 🤝 Contribuições
-Este repositório é pessoal, mas estou aberto a sugestões de melhorias! Caso encontre algum erro ou tenha ideias para aprimorar as soluções, fique à vontade para abrir uma issue ou enviar um pull request.
+## 🤝 Contributions
+This repository is personal, but I'm open to suggestions for improvement! If you find any errors or have ideas to enhance the solutions, feel free to open an issue or send a pull request.
