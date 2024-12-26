@@ -29,7 +29,7 @@ The exercises are organized by number and topic, as per the course:
    ```bash
     python exercises/ex001.py
 
-## 🧑‍🎓 About the Course
+## 👩🎓 About the Course
 
 The Python Course from Curso em Vídeo is one of the best free options to learn Python. The material is very educational, with clear explanations and several practical examples.
 If you're just starting with Python, I highly recommend checking it out!
