@@ -25,7 +25,7 @@ The exercises are organized by number and topic, as per the course:
    git clone https://github.com/amandavsamorim/python-100exercises.git
    cd python-100exercises
 
-2. Run an exercise:
+3. Run an exercise:
    ```bash
     python exercises/ex001.py
 
