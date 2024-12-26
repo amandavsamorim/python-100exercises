@@ -12,7 +12,7 @@ Os exercícios abordam desde conceitos básicos de programação até tópicos m
 
 Os exercícios estão organizados por número e tópico, conforme o curso:  
  
-     📂 PythonExercicios/
+     📂 python-100exercises/exercises
     ├── ex001.py 
     ├── ex002.py
     ├── ...
@@ -22,12 +22,12 @@ Os exercícios estão organizados por número e tópico, conforme o curso:
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/amandavsamorim/100Exercicios-Python.git
-   cd 100Exercicios-Python
+   git clone https://github.com/amandavsamorim/python-100exercises.git
+   cd python-100exercises
 
 2. Clone o repositório:
    ```bash
-    python PythonExercicios/ex001.py
+    python exercises/ex001.py
 
 ## 🧑‍🎓 Sobre o Curso
 
